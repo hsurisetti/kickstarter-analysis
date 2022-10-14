@@ -62,9 +62,10 @@ Theater outcomes by launch date mainly depends of the date created conversion co
     * There are very few of them which were cancelled.
 
 #### **Theater Outcomes based on Launch Date**
-![img](https://github.com/hsurisetti/TestRepo1/blob/main/Theater_Outcomes_vs_Launch.png)
+![img](https://github.com/hsurisetti/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+
 #### **Outcomes based on Goals**
-![img](https://github.com/hsurisetti/TestRepo1/blob/main/Outcomes_vs_Goals.png)
+![img](https://github.com/hsurisetti/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 - **What can you conclude about the Outcomes based on Goals?**
   
